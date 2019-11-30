@@ -6,7 +6,7 @@ Problem Statement:
 2013 sales data for 1559 products of Big Mart are collected across 10 stores in different cities. The aim is to build a predictive model to find out the sales of each product at a particular store.
 
 Data format:
-The training and test set are Pandas DataFrames (read from CSV files, whose shapes are (8523, 12) and (5681, 11) respectively). Each row contains attributes of a product. Each column is an attribute (Item_Identifier, Item_Weight, Item_Fat_Content, Item_Visibility, etc.). 
+The training and test set are DataFrames (read from CSV files, whose shapes are (8523, 12) and (5681, 11) respectively). Each row contains attributes of a product. Each column is an attribute (Item_Identifier, Item_Weight, Item_Fat_Content, Item_Visibility, etc.). 
 
 Evaluation Metric: Root Mean Square Error (RMSE)
 
