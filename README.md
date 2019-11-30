@@ -12,7 +12,7 @@ Evaluation Metric: Root Mean Square Rrror (RMSE)
 
 I apply generalized linear models (from sklearn): Linear regression, Ridge regression (L2 regularization technique), and Lasso Regression (L1 regularization technique, by setting l1_ratio = 1 in ElasticNet regression model). The best model, Lasso Regression, has RMSE of 1129.63.
 
-Please see the R script in sale_prediction.R and Python script in Sales_prediction.ipynb.
+### Please see the R script in sale_prediction.R and Python script in Sales_prediction.ipynb.
 
 
 
